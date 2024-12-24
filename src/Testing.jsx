@@ -1,4 +1,4 @@
 const Testing = () => {
-  return <div>Testing</div>;
+  return <div>Teg</div>;
 };
 export default Testing;
